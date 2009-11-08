@@ -1,0 +1,1 @@
+C:\Python26\python.exe ../GAE/appcfg.py update ./ --email=philbo@gmail.com
